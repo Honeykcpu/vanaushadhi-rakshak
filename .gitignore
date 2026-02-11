@@ -39,3 +39,12 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+.ipynb_checkpoints/
+checkpoints/
+assets/Medicinal Leaf dataset/
+assets/data/
+*.ipynb
+*.pt
+*.h5
+.env
