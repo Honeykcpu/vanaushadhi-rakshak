@@ -15,6 +15,7 @@ import Brahmi from "./components/Brahmi";
 import Peppermint from "./components/Peppermint";
 import GeoTaggedPlantInput from "./components/GeoTaggedPlantInput";
 import ClimateData from "./components/ClimateData";
+import DiseaseDiagnosis from "./components/DiseaseDiagnosis";
 
 const Stack = createNativeStackNavigator();
 
@@ -37,6 +38,7 @@ export default function App() {
         <Stack.Screen name="Peppermint" component={Peppermint} />
         <Stack.Screen name="GeoTaggedPlantInput" component={GeoTaggedPlantInput} />
         <Stack.Screen name="ClimateData" component={ClimateData} />
+        <Stack.Screen name="DiseaseDiagnosis" component={DiseaseDiagnosis} />
       </Stack.Navigator>
     </NavigationContainer>
   );

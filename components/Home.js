@@ -52,7 +52,11 @@ const Home = ({ navigation }) => {
       </LinearGradient>
 
       <Animatable.View animation="fadeInUp" delay={500} style={styles.infoBox}>
-        <Ionicons name="information-circle-outline" size={24} color="#2E7D32" />
+        <Ionicons
+          name="information-circle-outline"
+          size={24}
+          color="#2E7D32"
+        />
         <Text style={styles.infoText}>
           Learn about medicinal plants, their benefits, usage, and conservation.
         </Text>
@@ -80,7 +84,7 @@ const Home = ({ navigation }) => {
         </Animatable.View>
       ))}
 
-      {/* Feature Buttons */}
+      {/* Explore All Plants */}
       <Animatable.View animation="zoomIn" delay={1400}>
         <TouchableOpacity
           style={styles.exploreButton}
@@ -90,6 +94,19 @@ const Home = ({ navigation }) => {
         </TouchableOpacity>
       </Animatable.View>
 
+      {/* Disease Diagnosis (FIXED & CONSISTENT) */}
+      <Animatable.View animation="zoomIn" delay={1450}>
+        <TouchableOpacity
+          style={[styles.exploreButton, { backgroundColor: "#1B5E20" }]}
+          onPress={() => navigation.navigate("DiseaseDiagnosis")}
+        >
+          <Text style={styles.exploreButtonText}>
+            Plant Disease Diagnosis
+          </Text>
+        </TouchableOpacity>
+      </Animatable.View>
+
+      {/* Geo Tagged Plant */}
       <Animatable.View animation="zoomIn" delay={1500}>
         <TouchableOpacity
           style={[styles.exploreButton, { backgroundColor: "#4CAF50" }]}
@@ -99,6 +116,7 @@ const Home = ({ navigation }) => {
         </TouchableOpacity>
       </Animatable.View>
 
+      {/* Climate Data */}
       <Animatable.View animation="zoomIn" delay={1550}>
         <TouchableOpacity
           style={styles.exploreButton}
