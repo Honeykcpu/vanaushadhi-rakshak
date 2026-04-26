@@ -1,0 +1,1883 @@
+{
+  "Ocimum_sanctum": {
+    "common_name": "Tulsi / Holy Basil",
+    "family": "Lamiaceae",
+    "medicinal_uses": "Adaptogen, antibacterial, antiviral, respiratory health, stress relief",
+    "care_tips": "Full sun, well-drained soil, regular pinching to prevent flowering, moderate watering",
+    "diseases": {
+      "Powdery Mildew": {
+        "symptoms": {
+          "visual_keywords": [
+            "white powdery coating",
+            "distorted young leaves",
+            "yellowing",
+            "stunted growth"
+          ],
+          "pattern": "white powder on leaves"
+        },
+        "treatment": "Wettable sulphur 0.3%, Neem oil 2%",
+        "causal_organism": "Leveillula taurica",
+        "precautions": [
+          "Improve air circulation",
+          "Remove infected shoots",
+          "Spray neem oil weekly",
+          "Avoid overhead watering"
+        ]
+      },
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "circular lesions",
+            "yellow halo",
+            "premature leaf drop"
+          ],
+          "pattern": "circular spots"
+        },
+        "treatment": "Mancozeb 0.25%, Copper oxychloride 0.3%",
+        "causal_organism": "Alternaria alternata",
+        "precautions": [
+          "Remove infected leaves",
+          "Avoid overhead watering",
+          "Apply fungicide at first sign",
+          "Maintain plant spacing"
+        ]
+      }
+    }
+  },
+  "Azadirachta_indica": {
+    "common_name": "Neem",
+    "family": "Meliaceae",
+    "medicinal_uses": "Antibacterial, antifungal, antidiabetic, blood purifier, skin disorders",
+    "care_tips": "Full sun, drought tolerant, any soil type, minimal care required",
+    "diseases": {
+      "Powdery Mildew": {
+        "symptoms": {
+          "visual_keywords": [
+            "white powdery coating",
+            "stunted new growth",
+            "leaf distortion"
+          ],
+          "pattern": "white coating"
+        },
+        "treatment": "Wettable sulphur 0.3%, Hexaconazole 0.1%",
+        "causal_organism": "Erysiphe azadirachti",
+        "precautions": [
+          "Apply sulphur spray",
+          "Improve spacing",
+          "Remove infected shoots",
+          "Spray in early morning"
+        ]
+      },
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "yellow halo",
+            "circular necrotic lesions"
+          ],
+          "pattern": "scattered spots"
+        },
+        "treatment": "Carbendazim 0.1%, Mancozeb 0.25%",
+        "causal_organism": "Cercospora sp.",
+        "precautions": [
+          "Remove fallen leaves",
+          "Apply fungicide every 15 days",
+          "Avoid water splash on leaves",
+          "Improve drainage"
+        ]
+      }
+    }
+  },
+  "Aloe_vera": {
+    "common_name": "Aloe Vera",
+    "family": "Asphodelaceae",
+    "medicinal_uses": "Skin healing, burn treatment, digestive health, immune booster, antioxidant",
+    "care_tips": "Full sun, sandy well-drained soil, infrequent watering, avoid frost",
+    "diseases": {
+      "Anthracnose": {
+        "symptoms": {
+          "visual_keywords": [
+            "dark brown sunken spots",
+            "water soaked lesions",
+            "pink spore masses",
+            "leaf tip dieback"
+          ],
+          "pattern": "sunken dark spots on leaf margins"
+        },
+        "treatment": "Carbendazim 0.1%, Copper oxychloride 0.3%",
+        "causal_organism": "Colletotrichum sp.",
+        "precautions": [
+          "Remove infected leaves",
+          "Avoid overwatering",
+          "Improve air circulation",
+          "Apply fungicide at first sign"
+        ]
+      },
+      "Root Rot": {
+        "symptoms": {
+          "visual_keywords": [
+            "yellowing",
+            "soft base",
+            "black necrosis at roots",
+            "plant toppling"
+          ],
+          "pattern": "basal rot and yellowing"
+        },
+        "treatment": "Metalaxyl 0.2% soil drench, improve drainage",
+        "causal_organism": "Phytophthora sp., Fusarium sp.",
+        "precautions": [
+          "Use sandy well-drained soil",
+          "Avoid overwatering",
+          "Remove affected plants",
+          "Use raised beds"
+        ]
+      }
+    }
+  },
+  "Centella_asiatica": {
+    "common_name": "Brahmi / Gotu Kola",
+    "family": "Apiaceae",
+    "medicinal_uses": "Memory enhancer, wound healer, anti-anxiety, skin rejuvenation, neuroprotective",
+    "care_tips": "Partial shade, moist soil, high humidity, spreads as ground cover",
+    "diseases": {
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "circular necrotic lesions",
+            "yellowing around spots"
+          ],
+          "pattern": "scattered circular spots"
+        },
+        "treatment": "Mancozeb 0.25%, Copper oxychloride 0.3%",
+        "causal_organism": "Cercospora sp.",
+        "precautions": [
+          "Remove infected leaves",
+          "Avoid waterlogging",
+          "Apply fungicide preventively",
+          "Improve drainage"
+        ]
+      },
+      "White Rot": {
+        "symptoms": {
+          "visual_keywords": [
+            "white cottony growth at base",
+            "yellowing",
+            "wilting",
+            "stem rot"
+          ],
+          "pattern": "white mycelial growth at base"
+        },
+        "treatment": "Carbendazim 0.1% soil drench, Trichoderma application",
+        "causal_organism": "Sclerotium rolfsii",
+        "precautions": [
+          "Remove infected plants",
+          "Drench soil with bio-fungicide",
+          "Improve drainage",
+          "Avoid overwatering"
+        ]
+      }
+    }
+  },
+  "Mentha_arvensis": {
+    "common_name": "Mint",
+    "family": "Lamiaceae",
+    "medicinal_uses": "Digestive, antispasmodic, antibacterial, cooling, headache relief",
+    "care_tips": "Partial shade, moist well-drained soil, contain spread with pots, regular harvesting",
+    "diseases": {
+      "Rust": {
+        "symptoms": {
+          "visual_keywords": [
+            "rust orange pustules",
+            "yellow spots on upper surface",
+            "brown powder on underside",
+            "defoliation"
+          ],
+          "pattern": "orange pustules"
+        },
+        "treatment": "Propiconazole 0.1%, Mancozeb 0.25%",
+        "causal_organism": "Puccinia menthae",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide at first sign",
+          "Improve air circulation",
+          "Avoid overhead watering"
+        ]
+      },
+      "Powdery Mildew": {
+        "symptoms": {
+          "visual_keywords": [
+            "white powdery coating",
+            "distorted leaves",
+            "yellowing",
+            "stunted growth"
+          ],
+          "pattern": "white powder on leaf surface"
+        },
+        "treatment": "Wettable sulphur 0.3%, Neem oil 2%",
+        "causal_organism": "Erysiphe biocellata",
+        "precautions": [
+          "Improve spacing",
+          "Spray neem oil",
+          "Remove infected shoots",
+          "Avoid overhead watering"
+        ]
+      }
+    }
+  },
+  "Rosa_chinensis": {
+    "common_name": "Rose",
+    "family": "Rosaceae",
+    "medicinal_uses": "Antioxidant, anti-inflammatory, skin care, stress relief, vitamin C",
+    "care_tips": "Full sun, well-drained fertile soil, regular pruning, deep watering at base",
+    "diseases": {
+      "Black Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "black spots on leaves",
+            "yellow halo around spots",
+            "premature defoliation",
+            "brown lesions"
+          ],
+          "pattern": "black circular spots with yellow halo"
+        },
+        "treatment": "Mancozeb 0.25%, Trifloxystrobin 0.015%",
+        "causal_organism": "Diplocarpon rosae",
+        "precautions": [
+          "Remove infected leaves immediately",
+          "Avoid overhead watering",
+          "Apply fungicide weekly in wet weather",
+          "Mulch base of plant"
+        ]
+      },
+      "Powdery Mildew": {
+        "symptoms": {
+          "visual_keywords": [
+            "white powdery coating",
+            "distorted young shoots",
+            "pink-white powder",
+            "stunted buds"
+          ],
+          "pattern": "white powder on young growth"
+        },
+        "treatment": "Wettable sulphur 0.3%, Myclobutanil 0.1%",
+        "causal_organism": "Podosphaera pannosa",
+        "precautions": [
+          "Improve air circulation",
+          "Avoid overhead watering",
+          "Apply sulphur spray",
+          "Prune infected shoots"
+        ]
+      },
+      "Rust": {
+        "symptoms": {
+          "visual_keywords": [
+            "rust orange pustules",
+            "yellow spots on upper surface",
+            "orange powder on underside"
+          ],
+          "pattern": "orange pustules"
+        },
+        "treatment": "Propiconazole 0.1%, Mancozeb 0.25%",
+        "causal_organism": "Phragmidium tuberculatum",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide at first sign",
+          "Avoid leaf wetness",
+          "Maintain spacing"
+        ]
+      }
+    }
+  },
+  "Curcuma_longa": {
+    "common_name": "Turmeric",
+    "family": "Zingiberaceae",
+    "medicinal_uses": "Anti-inflammatory, antioxidant, liver protection, wound healing, antimicrobial",
+    "care_tips": "Partial shade, well-drained fertile soil, regular watering, mulching",
+    "diseases": {
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "white centre with brown border",
+            "circular lesions",
+            "premature leaf drop"
+          ],
+          "pattern": "spots with white centre"
+        },
+        "treatment": "Mancozeb 0.25%, Copper oxychloride 0.3%",
+        "causal_organism": "Colletotrichum capsici",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide at 15-day intervals",
+          "Avoid overhead watering",
+          "Improve drainage"
+        ]
+      },
+      "Rhizome Rot": {
+        "symptoms": {
+          "visual_keywords": [
+            "yellowing",
+            "wilting",
+            "black necrosis at base",
+            "soft rotting rhizome"
+          ],
+          "pattern": "basal rot and wilting"
+        },
+        "treatment": "Metalaxyl + Mancozeb soil drench, Trichoderma application",
+        "causal_organism": "Pythium aphanidermatum, Fusarium sp.",
+        "precautions": [
+          "Use healthy rhizomes",
+          "Treat seed rhizomes with Mancozeb",
+          "Improve field drainage",
+          "Avoid waterlogging"
+        ]
+      }
+    }
+  },
+  "Zingiber_officinale": {
+    "common_name": "Ginger",
+    "family": "Zingiberaceae",
+    "medicinal_uses": "Anti-nausea, anti-inflammatory, digestive aid, immune booster, antioxidant",
+    "care_tips": "Partial shade, well-drained moist soil, high organic matter, warm humid climate",
+    "diseases": {
+      "Soft Rot": {
+        "symptoms": {
+          "visual_keywords": [
+            "water soaked lesions",
+            "yellowing",
+            "soft rot at base",
+            "foul smell",
+            "rapid wilting"
+          ],
+          "pattern": "basal soft rot"
+        },
+        "treatment": "Metalaxyl 0.2% soil drench, Bordeaux mixture 1%",
+        "causal_organism": "Pythium aphanidermatum",
+        "precautions": [
+          "Use disease-free rhizomes",
+          "Improve soil drainage",
+          "Drench with Metalaxyl before planting",
+          "Remove infected clumps"
+        ]
+      },
+      "Bacterial Wilt": {
+        "symptoms": {
+          "visual_keywords": [
+            "sudden wilting",
+            "yellowing",
+            "brown discoloration inside stem",
+            "black necrosis"
+          ],
+          "pattern": "sudden top wilt"
+        },
+        "treatment": "Streptomycin sulphate 500ppm, remove infected plants",
+        "causal_organism": "Ralstonia solanacearum",
+        "precautions": [
+          "Use healthy planting material",
+          "Avoid water stress",
+          "Remove infected plants",
+          "Drench with Copper sulphate 0.2%"
+        ]
+      }
+    }
+  },
+  "Moringa_oleifera": {
+    "common_name": "Drumstick / Moringa",
+    "family": "Moringaceae",
+    "medicinal_uses": "Nutrition powerhouse, antioxidant, anti-inflammatory, antidiabetic, antimicrobial",
+    "care_tips": "Full sun, well-drained soil, drought tolerant, fast growing, prune regularly",
+    "diseases": {
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown circular spots",
+            "yellow halo",
+            "necrotic lesions",
+            "premature defoliation"
+          ],
+          "pattern": "scattered brown spots"
+        },
+        "treatment": "Mancozeb 0.25%, Copper oxychloride 0.3%",
+        "causal_organism": "Cercospora moringicola",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide every 15 days",
+          "Avoid overhead watering",
+          "Improve drainage"
+        ]
+      },
+      "Powdery Mildew": {
+        "symptoms": {
+          "visual_keywords": [
+            "white powdery coating",
+            "yellowing",
+            "distorted young leaves"
+          ],
+          "pattern": "white powder on young growth"
+        },
+        "treatment": "Wettable sulphur 0.3%, Hexaconazole 0.1%",
+        "causal_organism": "Erysiphe sp.",
+        "precautions": [
+          "Spray sulphur in early morning",
+          "Prune for air flow",
+          "Remove infected shoots",
+          "Avoid dense canopy"
+        ]
+      }
+    }
+  },
+  "Andrographis_paniculata": {
+    "common_name": "Kalmegh / Green Chiretta",
+    "family": "Acanthaceae",
+    "medicinal_uses": "Antiviral, antibacterial, immunostimulant, liver protective, antidiabetic",
+    "care_tips": "Full sun, well-drained soil, moderate watering, harvest before flowering",
+    "diseases": {
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown irregular spots",
+            "yellowing",
+            "necrotic lesions",
+            "premature defoliation"
+          ],
+          "pattern": "irregular brown spots"
+        },
+        "treatment": "Mancozeb 0.25%, Carbendazim 0.1%",
+        "causal_organism": "Alternaria andrographidis",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide at first sign",
+          "Avoid overhead watering",
+          "Maintain plant spacing"
+        ]
+      },
+      "Damping Off": {
+        "symptoms": {
+          "visual_keywords": [
+            "wilting at seedling stage",
+            "brown rot at base",
+            "collapse of seedlings",
+            "water soaked lesions"
+          ],
+          "pattern": "seedling collapse at base"
+        },
+        "treatment": "Thiram seed treatment, Metalaxyl 0.2% soil drench",
+        "causal_organism": "Pythium sp., Rhizoctonia solani",
+        "precautions": [
+          "Treat seed before sowing",
+          "Use well-drained seedling media",
+          "Avoid overwatering seedlings",
+          "Improve air circulation"
+        ]
+      }
+    }
+  },
+  "Adhatoda_vasica": {
+    "common_name": "Malabar Nut / Adusa",
+    "family": "Acanthaceae",
+    "medicinal_uses": "Expectorant, bronchodilator, antispasmodic, antitubercular, wound healing",
+    "care_tips": "Full sun, well-drained soil, drought tolerant, prune after flowering",
+    "diseases": {
+      "Anthracnose": {
+        "symptoms": {
+          "visual_keywords": [
+            "dark brown sunken spots",
+            "irregular lesions",
+            "tip dieback"
+          ],
+          "pattern": "sunken dark lesions"
+        },
+        "treatment": "Carbendazim 0.1%, Copper oxychloride 0.3%",
+        "causal_organism": "Colletotrichum gloeosporioides",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide every 15 days",
+          "Improve air circulation",
+          "Avoid overhead watering"
+        ]
+      },
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "circular lesions",
+            "yellow halo"
+          ],
+          "pattern": "circular spots"
+        },
+        "treatment": "Mancozeb 0.25%, Carbendazim 0.1%",
+        "causal_organism": "Cercospora adhatodae",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide at first sign",
+          "Avoid leaf wetness",
+          "Maintain spacing"
+        ]
+      }
+    }
+  },
+  "Phyllanthus_emblica": {
+    "common_name": "Amla / Indian Gooseberry",
+    "family": "Phyllanthaceae",
+    "medicinal_uses": "Vitamin C richest source, antioxidant, immunomodulator, hair care, liver tonic",
+    "care_tips": "Full sun, well-drained soil, drought tolerant, prune to shape",
+    "diseases": {
+      "Rust": {
+        "symptoms": {
+          "visual_keywords": [
+            "rust orange pustules",
+            "yellow spots on leaves",
+            "brown powder",
+            "defoliation"
+          ],
+          "pattern": "orange rust pustules"
+        },
+        "treatment": "Mancozeb 0.25%, Propiconazole 0.1%",
+        "causal_organism": "Phakopsora phyllanthi",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide at first sign",
+          "Maintain tree spacing",
+          "Avoid leaf wetness"
+        ]
+      },
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "circular lesions",
+            "yellow halo",
+            "premature drop"
+          ],
+          "pattern": "circular spots"
+        },
+        "treatment": "Copper oxychloride 0.3%, Carbendazim 0.1%",
+        "causal_organism": "Phyllosticta emblica",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide during monsoon",
+          "Improve drainage",
+          "Avoid overhead watering"
+        ]
+      }
+    }
+  },
+  "Tinospora_cordifolia": {
+    "common_name": "Giloy / Guduchi",
+    "family": "Menispermaceae",
+    "medicinal_uses": "Immunomodulator, antipyretic, antidiabetic, antioxidant, adaptogen",
+    "care_tips": "Full sun to partial shade, well-drained soil, climber needing support, drought tolerant",
+    "diseases": {
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "circular lesions",
+            "yellow margins",
+            "premature drop"
+          ],
+          "pattern": "circular brown spots"
+        },
+        "treatment": "Mancozeb 0.25%, Copper oxychloride 0.3%",
+        "causal_organism": "Phyllosticta sp.",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide every 15 days",
+          "Avoid leaf wetness",
+          "Improve air circulation"
+        ]
+      }
+    }
+  },
+  "Hibiscus_rosa_sinensis": {
+    "common_name": "Hibiscus",
+    "family": "Malvaceae",
+    "medicinal_uses": "Antihypertensive, antioxidant, hair care, liver protection, cholesterol reduction",
+    "care_tips": "Full sun, well-drained fertile soil, regular watering, prune after flowering",
+    "diseases": {
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown circular spots",
+            "yellow halo",
+            "necrotic lesions",
+            "premature leaf drop"
+          ],
+          "pattern": "circular brown spots with halo"
+        },
+        "treatment": "Mancozeb 0.25%, Carbendazim 0.1%",
+        "causal_organism": "Cercospora hibisci",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide every 15 days",
+          "Improve drainage",
+          "Avoid leaf wetness"
+        ]
+      },
+      "Powdery Mildew": {
+        "symptoms": {
+          "visual_keywords": [
+            "white powdery coating",
+            "yellowing",
+            "distorted buds",
+            "stunted growth"
+          ],
+          "pattern": "white powder on young growth"
+        },
+        "treatment": "Wettable sulphur 0.3%, Hexaconazole 0.1%",
+        "causal_organism": "Oidium sp.",
+        "precautions": [
+          "Spray sulphur in early morning",
+          "Improve air circulation",
+          "Remove infected shoots",
+          "Avoid excess nitrogen"
+        ]
+      }
+    }
+  },
+  "Psidium_guajava": {
+    "common_name": "Guava",
+    "family": "Myrtaceae",
+    "medicinal_uses": "Antidiarrheal, antioxidant, immune booster, blood sugar regulation, vitamin C",
+    "care_tips": "Full sun, well-drained soil, regular watering, prune to maintain shape",
+    "diseases": {
+      "Anthracnose": {
+        "symptoms": {
+          "visual_keywords": [
+            "dark brown spots",
+            "sunken lesions",
+            "fruit rot",
+            "tip dieback"
+          ],
+          "pattern": "sunken dark spots"
+        },
+        "treatment": "Copper oxychloride 0.3%, Carbendazim 0.1%",
+        "causal_organism": "Colletotrichum psidii",
+        "precautions": [
+          "Remove infected fruit and leaves",
+          "Apply copper spray before rains",
+          "Avoid overhead watering",
+          "Prune dead wood"
+        ]
+      },
+      "Rust": {
+        "symptoms": {
+          "visual_keywords": [
+            "rust orange pustules",
+            "yellow spots on upper surface",
+            "brown powder on underside",
+            "premature defoliation"
+          ],
+          "pattern": "orange pustules"
+        },
+        "treatment": "Triadimefon 0.1%, Mancozeb 0.25%",
+        "causal_organism": "Puccinia psidii",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide at first sign",
+          "Maintain spacing",
+          "Avoid leaf wetness"
+        ]
+      }
+    }
+  },
+  "Carica_papaya": {
+    "common_name": "Papaya",
+    "family": "Caricaceae",
+    "medicinal_uses": "Digestive enzyme papain, antioxidant, dengue fever treatment, wound healing",
+    "care_tips": "Full sun, well-drained soil, protect from wind, regular feeding",
+    "diseases": {
+      "Papaya Ring Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "yellow mosaic",
+            "ring patterns on leaves",
+            "leaf curl distortion",
+            "stunted growth"
+          ],
+          "pattern": "mosaic and ring spots"
+        },
+        "treatment": "Remove infected plants, control aphid vector with Imidacloprid 0.003%",
+        "causal_organism": "Papaya Ring Spot Virus",
+        "precautions": [
+          "Remove infected plants immediately",
+          "Control aphid vectors",
+          "Use virus-free seedlings",
+          "Apply mineral oil spray to reduce spread"
+        ]
+      },
+      "Anthracnose": {
+        "symptoms": {
+          "visual_keywords": [
+            "dark brown spots",
+            "water soaked lesions",
+            "fruit rot",
+            "sunken lesions"
+          ],
+          "pattern": "water-soaked then sunken"
+        },
+        "treatment": "Carbendazim 0.1%, Copper oxychloride 0.3%",
+        "causal_organism": "Colletotrichum gloeosporioides",
+        "precautions": [
+          "Remove infected parts",
+          "Apply fungicide before harvest",
+          "Avoid fruit injury",
+          "Store in cool dry conditions"
+        ]
+      }
+    }
+  },
+  "Solanum_lycopersicum": {
+    "common_name": "Tomato",
+    "diseases": {
+      "Early Blight": {
+        "symptoms": {
+          "visual_keywords": [
+            "concentric rings",
+            "target spots",
+            "brown lesions"
+          ],
+          "pattern": "target-board"
+        },
+        "treatment": "Mancozeb 0.25%, Chlorothalonil",
+        "causal_organism": "Alternaria solani",
+        "reference": "Common tomato diseases",
+        "precautions": [
+          "Remove lower infected leaves",
+          "Apply Mancozeb or Chlorothalonil",
+          "Avoid overhead watering",
+          "Mulch soil"
+        ]
+      },
+      "Late Blight": {
+        "symptoms": {
+          "visual_keywords": [
+            "water-soaked spots",
+            "white mold on undersurface"
+          ],
+          "pattern": "irregular patches"
+        },
+        "treatment": "Metalaxyl, Copper oxychloride",
+        "causal_organism": "Phytophthora infestans",
+        "reference": "Common tomato diseases",
+        "precautions": [
+          "Remove and destroy infected plant parts",
+          "Improve air circulation",
+          "Avoid overhead irrigation",
+          "Monitor plant health regularly",
+          "Consult local agricultural expert"
+        ]
+      },
+      "Leaf Curl Virus": {
+        "symptoms": {
+          "visual_keywords": [
+            "leaf curling",
+            "yellowing",
+            "stunted growth"
+          ],
+          "pattern": "leaf curl"
+        },
+        "treatment": "Remove infected plants, control whiteflies",
+        "causal_organism": "Tomato leaf curl virus",
+        "reference": "Common tomato diseases",
+        "precautions": [
+          "Remove and destroy infected plant parts",
+          "Improve air circulation",
+          "Avoid overhead irrigation",
+          "Monitor plant health regularly",
+          "Consult local agricultural expert"
+        ]
+      }
+    },
+    "medicinal_uses": "Lycopene source, antioxidant, heart health, cancer prevention, vitamin C and K",
+    "family": "Solanaceae",
+    "care_tips": "Full sun, well-drained fertile soil, staking support, regular watering at base"
+  },
+  "Capsicum_annuum": {
+    "common_name": "Chilli / Capsicum",
+    "family": "Solanaceae",
+    "medicinal_uses": "Analgesic, antioxidant, digestive stimulant, metabolism booster, vitamin C",
+    "care_tips": "Full sun, well-drained fertile soil, regular watering, stake tall plants",
+    "diseases": {
+      "Anthracnose": {
+        "symptoms": {
+          "visual_keywords": [
+            "dark brown sunken spots",
+            "water soaked lesions",
+            "fruit rot",
+            "black lesions"
+          ],
+          "pattern": "sunken dark lesions on fruit"
+        },
+        "treatment": "Carbendazim 0.1%, Copper oxychloride 0.3%",
+        "causal_organism": "Colletotrichum capsici",
+        "precautions": [
+          "Remove infected fruit immediately",
+          "Apply fungicide before fruiting",
+          "Avoid fruit injury",
+          "Improve air circulation"
+        ]
+      },
+      "Bacterial Wilt": {
+        "symptoms": {
+          "visual_keywords": [
+            "sudden wilting",
+            "brown discoloration inside stem",
+            "yellowing",
+            "plant collapse"
+          ],
+          "pattern": "sudden wilting without leaf yellowing"
+        },
+        "treatment": "Streptomycin 500ppm soil drench, remove infected plants",
+        "causal_organism": "Ralstonia solanacearum",
+        "precautions": [
+          "Use disease-free transplants",
+          "Drench soil with Copper sulphate",
+          "Remove infected plants",
+          "Avoid waterlogging"
+        ]
+      }
+    }
+  },
+  "Mangifera_indica": {
+    "common_name": "Mango",
+    "family": "Anacardiaceae",
+    "medicinal_uses": "Antidiarrheal, antioxidant, improves digestion, rich in vitamin C and A",
+    "care_tips": "Full sun, well-drained soil, moderate watering, prune after fruiting",
+    "diseases": {
+      "Anthracnose": {
+        "symptoms": {
+          "visual_keywords": [
+            "black spots on leaves",
+            "irregular dark lesions",
+            "tip dieback",
+            "fruit rot"
+          ],
+          "pattern": "irregular margins"
+        },
+        "treatment": "Copper oxychloride 0.3%, Carbendazim 0.1%",
+        "causal_organism": "Colletotrichum gloeosporioides",
+        "precautions": [
+          "Remove fallen leaves",
+          "Apply copper fungicide before flowering",
+          "Avoid overhead irrigation",
+          "Prune dead twigs"
+        ]
+      },
+      "Powdery Mildew": {
+        "symptoms": {
+          "visual_keywords": [
+            "white powdery coating",
+            "distorted young shoots",
+            "premature leaf drop"
+          ],
+          "pattern": "white powder"
+        },
+        "treatment": "Wettable sulphur 0.2%, Hexaconazole 0.1%",
+        "causal_organism": "Oidium mangiferae",
+        "precautions": [
+          "Spray sulphur early morning",
+          "Avoid dense canopy",
+          "Remove infected shoots",
+          "Apply at 10-day intervals"
+        ]
+      },
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "yellow halo",
+            "necrotic lesions"
+          ],
+          "pattern": "scattered spots"
+        },
+        "treatment": "Mancozeb 0.25%, Chlorothalonil 0.2%",
+        "causal_organism": "Pestalotiopsis mangiferae",
+        "precautions": [
+          "Improve air circulation",
+          "Remove infected leaves",
+          "Avoid water stress",
+          "Apply fungicide at first sign"
+        ]
+      }
+    }
+  },
+  "Citrus_limon": {
+    "common_name": "Lemon",
+    "family": "Rutaceae",
+    "medicinal_uses": "Vitamin C source, digestive aid, antibacterial, kidney stone prevention",
+    "care_tips": "Full sun, well-drained soil, regular feeding with citrus fertilizer",
+    "diseases": {
+      "Citrus Canker": {
+        "symptoms": {
+          "visual_keywords": [
+            "raised corky lesions",
+            "yellow halo around spots",
+            "water soaked lesions",
+            "brown eruptions"
+          ],
+          "pattern": "raised pustules"
+        },
+        "treatment": "Copper hydroxide 0.2%, Streptomycin sulphate 500ppm",
+        "causal_organism": "Xanthomonas axonopodis",
+        "precautions": [
+          "Remove and burn infected parts",
+          "Disinfect pruning tools",
+          "Avoid working in wet conditions",
+          "Apply copper spray after pruning"
+        ]
+      },
+      "Powdery Mildew": {
+        "symptoms": {
+          "visual_keywords": [
+            "white powdery coating",
+            "curling young leaves",
+            "yellowing"
+          ],
+          "pattern": "white powder on young tissue"
+        },
+        "treatment": "Wettable sulphur 0.3%, Triadimefon 0.1%",
+        "causal_organism": "Oidium citri",
+        "precautions": [
+          "Spray in early morning",
+          "Remove infected shoots",
+          "Maintain spacing between plants",
+          "Avoid excess nitrogen"
+        ]
+      },
+      "Leaf Blight": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "leaf tip burn",
+            "yellowing",
+            "premature defoliation"
+          ],
+          "pattern": "tip and margin necrosis"
+        },
+        "treatment": "Carbendazim 0.1%, Copper oxychloride 0.3%",
+        "causal_organism": "Alternaria alternata",
+        "precautions": [
+          "Remove infected leaves",
+          "Maintain good drainage",
+          "Apply foliar spray every 15 days",
+          "Avoid waterlogging"
+        ]
+      }
+    }
+  },
+  "Punica_granatum": {
+    "common_name": "Pomegranate",
+    "family": "Lythraceae",
+    "medicinal_uses": "Antioxidant, anti-inflammatory, heart health, blood pressure regulation",
+    "care_tips": "Full sun, dry climate tolerant, prune to open vase shape, deep watering",
+    "diseases": {
+      "Cercospora Fruit Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "dark brown spots",
+            "circular lesions",
+            "yellowing around spots",
+            "premature fruit drop"
+          ],
+          "pattern": "circular dark spots"
+        },
+        "treatment": "Mancozeb 0.25%, Carbendazim 0.1%",
+        "causal_organism": "Cercospora punicae",
+        "precautions": [
+          "Remove infected fruit",
+          "Apply fungicide at fruit set",
+          "Avoid dense planting",
+          "Improve air circulation"
+        ]
+      },
+      "Bacterial Blight": {
+        "symptoms": {
+          "visual_keywords": [
+            "water soaked lesions",
+            "brown streaks on shoots",
+            "black necrosis",
+            "sudden wilting"
+          ],
+          "pattern": "water-soaked then necrotic"
+        },
+        "treatment": "Copper hydroxide 0.2%, Streptomycin 500ppm",
+        "causal_organism": "Xanthomonas axonopodis pv. punicae",
+        "precautions": [
+          "Remove infected branches",
+          "Disinfect tools",
+          "Avoid overhead watering",
+          "Apply copper at first sign"
+        ]
+      }
+    }
+  },
+  "Lawsonia_inermis": {
+    "common_name": "Henna",
+    "family": "Lythraceae",
+    "medicinal_uses": "Antifungal, cooling, hair care, wound healing, skin conditions",
+    "care_tips": "Full sun, well-drained alkaline soil, drought tolerant once established",
+    "diseases": {
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "yellow halo",
+            "circular lesions",
+            "leaf drop"
+          ],
+          "pattern": "scattered spots"
+        },
+        "treatment": "Mancozeb 0.25%, Copper oxychloride 0.3%",
+        "causal_organism": "Cercospora lawsoniae",
+        "precautions": [
+          "Remove infected leaves",
+          "Avoid overhead irrigation",
+          "Apply fungicide every 15 days",
+          "Improve spacing"
+        ]
+      },
+      "Powdery Mildew": {
+        "symptoms": {
+          "visual_keywords": [
+            "white powdery coating",
+            "stunted growth",
+            "leaf distortion"
+          ],
+          "pattern": "white coating on young leaves"
+        },
+        "treatment": "Wettable sulphur 0.3%",
+        "causal_organism": "Erysiphe sp.",
+        "precautions": [
+          "Spray sulphur early morning",
+          "Improve air circulation",
+          "Avoid excess watering",
+          "Remove infected shoots"
+        ]
+      }
+    }
+  },
+  "Colocasia_esculenta": {
+    "common_name": "Taro",
+    "family": "Araceae",
+    "medicinal_uses": "Digestive health, antioxidant, blood sugar regulation, skin care",
+    "care_tips": "Partial shade, moist rich soil, high humidity, regular feeding",
+    "diseases": {
+      "Leaf Blight": {
+        "symptoms": {
+          "visual_keywords": [
+            "water soaked lesions",
+            "brown irregular spots",
+            "white cottony growth",
+            "rapid wilting"
+          ],
+          "pattern": "water-soaked spreading patches"
+        },
+        "treatment": "Metalaxyl 0.2%, Mancozeb 0.25%",
+        "causal_organism": "Phytophthora colocasiae",
+        "precautions": [
+          "Remove infected leaves immediately",
+          "Avoid waterlogging",
+          "Apply Metalaxyl at first sign",
+          "Improve field drainage"
+        ]
+      },
+      "Pythium Rot": {
+        "symptoms": {
+          "visual_keywords": [
+            "yellowing",
+            "soft rot at base",
+            "black necrosis",
+            "collapse of plant"
+          ],
+          "pattern": "basal rot"
+        },
+        "treatment": "Metalaxyl + Mancozeb, soil drenching",
+        "causal_organism": "Pythium sp.",
+        "precautions": [
+          "Avoid overwatering",
+          "Use raised beds",
+          "Drench soil with fungicide",
+          "Remove affected plants"
+        ]
+      }
+    }
+  },
+  "Lantana_camara": {
+    "common_name": "Lantana",
+    "family": "Verbenaceae",
+    "medicinal_uses": "Antimicrobial, antipyretic, wound healing, respiratory ailments",
+    "care_tips": "Full sun, well-drained soil, drought tolerant, prune to maintain shape",
+    "diseases": {
+      "Powdery Mildew": {
+        "symptoms": {
+          "visual_keywords": [
+            "white powdery coating",
+            "distorted leaves",
+            "yellowing",
+            "premature leaf drop"
+          ],
+          "pattern": "white powder on leaves"
+        },
+        "treatment": "Wettable sulphur 0.2%, Triadimefon 0.1%",
+        "causal_organism": "Erysiphe lantanae",
+        "precautions": [
+          "Improve air circulation",
+          "Remove infected shoots",
+          "Spray sulphur early",
+          "Avoid overhead watering"
+        ]
+      },
+      "Rust": {
+        "symptoms": {
+          "visual_keywords": [
+            "rust orange pustules",
+            "yellow spots on upper surface",
+            "brown powder on underside"
+          ],
+          "pattern": "pustules on underside"
+        },
+        "treatment": "Propiconazole 0.1%, Mancozeb 0.25%",
+        "causal_organism": "Prospodium tuberculatum",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide at first sign",
+          "Avoid wetting foliage",
+          "Maintain plant spacing"
+        ]
+      }
+    }
+  },
+  "Murraya_koenigii": {
+    "common_name": "Curry Leaf",
+    "family": "Rutaceae",
+    "medicinal_uses": "Antidiabetic, digestive, antioxidant, hair growth stimulant",
+    "care_tips": "Partial to full sun, well-drained soil, regular watering, protect from frost",
+    "diseases": {
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown circular spots",
+            "yellow halo",
+            "necrotic lesions",
+            "premature leaf drop"
+          ],
+          "pattern": "circular spots with halo"
+        },
+        "treatment": "Carbendazim 0.1%, Mancozeb 0.25%",
+        "causal_organism": "Colletotrichum murrayae",
+        "precautions": [
+          "Remove infected leaves",
+          "Avoid overhead watering",
+          "Apply fungicide every 15 days",
+          "Improve drainage"
+        ]
+      },
+      "Sooty Mould": {
+        "symptoms": {
+          "visual_keywords": [
+            "black coating on leaves",
+            "grey fuzzy growth",
+            "sticky surface",
+            "reduced photosynthesis"
+          ],
+          "pattern": "black sooty coating"
+        },
+        "treatment": "Control sucking insects with Imidacloprid 0.005%, wash leaves with soapy water",
+        "causal_organism": "Capnodium sp. (secondary to insect infestation)",
+        "precautions": [
+          "Control whitefly and aphid",
+          "Spray neem oil",
+          "Wash leaves regularly",
+          "Improve air circulation"
+        ]
+      }
+    }
+  },
+  "Solanum_nigrum": {
+    "common_name": "Black Nightshade / Makoy",
+    "family": "Solanaceae",
+    "medicinal_uses": "Hepatoprotective, anti-inflammatory, fever, skin diseases",
+    "care_tips": "Full sun, moist well-drained soil, moderate watering",
+    "diseases": {
+      "Early Blight": {
+        "symptoms": {
+          "visual_keywords": [
+            "concentric rings",
+            "brown lesions",
+            "target spots",
+            "yellowing around spots"
+          ],
+          "pattern": "target board pattern"
+        },
+        "treatment": "Mancozeb 0.25%, Chlorothalonil 0.2%",
+        "causal_organism": "Alternaria solani",
+        "precautions": [
+          "Remove lower infected leaves",
+          "Apply fungicide preventively",
+          "Avoid overhead watering",
+          "Mulch to prevent splash"
+        ]
+      },
+      "Leaf Curl Virus": {
+        "symptoms": {
+          "visual_keywords": [
+            "leaf curl distortion",
+            "yellowing",
+            "stunted growth",
+            "distorted young leaves"
+          ],
+          "pattern": "severe curling and stunting"
+        },
+        "treatment": "Control whitefly vector with Imidacloprid 0.003%, remove infected plants",
+        "causal_organism": "Tomato Leaf Curl Virus",
+        "precautions": [
+          "Remove and destroy infected plants",
+          "Control whitefly with yellow sticky traps",
+          "Use virus-free transplants",
+          "Apply reflective mulch"
+        ]
+      }
+    }
+  },
+  "Artocarpus_heterophyllus": {
+    "common_name": "Jackfruit",
+    "family": "Moraceae",
+    "medicinal_uses": "Antidiabetic, antioxidant, immune booster, digestive health",
+    "care_tips": "Full sun, deep well-drained soil, regular watering when young",
+    "diseases": {
+      "Rhizopus Fruit Rot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown soft rot",
+            "grey fuzzy growth",
+            "water soaked lesions",
+            "rapid fruit decay"
+          ],
+          "pattern": "soft rot with grey mould"
+        },
+        "treatment": "Carbendazim 0.1% dip, Thiram dust",
+        "causal_organism": "Rhizopus stolonifer",
+        "precautions": [
+          "Handle fruit carefully to avoid wounds",
+          "Apply fungicide before harvest",
+          "Store in cool dry place",
+          "Remove fallen fruit"
+        ]
+      },
+      "Leaf Blight": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown irregular patches",
+            "yellowing",
+            "tip dieback",
+            "black necrosis at margins"
+          ],
+          "pattern": "marginal blight"
+        },
+        "treatment": "Copper oxychloride 0.3%, Mancozeb 0.25%",
+        "causal_organism": "Phomopsis artocarpicola",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply copper spray",
+          "Improve drainage",
+          "Avoid waterlogging"
+        ]
+      }
+    }
+  },
+  "Eucalyptus_globulus": {
+    "common_name": "Eucalyptus",
+    "family": "Myrtaceae",
+    "medicinal_uses": "Decongestant, antiseptic, respiratory ailments, insect repellent",
+    "care_tips": "Full sun, well-drained soil, drought tolerant once established, fast growing",
+    "diseases": {
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "grey lesions",
+            "premature defoliation",
+            "yellowing"
+          ],
+          "pattern": "irregular grey-brown spots"
+        },
+        "treatment": "Copper oxychloride 0.3%, Carbendazim 0.1%",
+        "causal_organism": "Cylindrocladium sp.",
+        "precautions": [
+          "Remove fallen leaves",
+          "Apply fungicide during wet season",
+          "Maintain spacing",
+          "Avoid water stress"
+        ]
+      },
+      "Canker": {
+        "symptoms": {
+          "visual_keywords": [
+            "sunken brown lesions on bark",
+            "black necrosis",
+            "gum exudation",
+            "branch dieback"
+          ],
+          "pattern": "sunken bark cankers"
+        },
+        "treatment": "Carbendazim paste on wounds, Copper oxychloride spray",
+        "causal_organism": "Botryosphaeria sp.",
+        "precautions": [
+          "Remove dead branches",
+          "Disinfect pruning tools",
+          "Apply wound paste",
+          "Avoid stress conditions"
+        ]
+      }
+    }
+  },
+  "Piper_betle": {
+    "common_name": "Betel",
+    "family": "Piperaceae",
+    "medicinal_uses": "Digestive, antiseptic, mouth freshener, anti-inflammatory",
+    "care_tips": "Partial shade, high humidity, well-drained fertile soil, support structure needed",
+    "diseases": {
+      "Phytophthora Leaf Rot": {
+        "symptoms": {
+          "visual_keywords": [
+            "water soaked lesions",
+            "brown irregular patches",
+            "rapid wilting",
+            "black rot at base"
+          ],
+          "pattern": "spreading water-soaked patches"
+        },
+        "treatment": "Metalaxyl 0.2%, Bordeaux mixture 1%",
+        "causal_organism": "Phytophthora palmivora",
+        "precautions": [
+          "Remove infected vines immediately",
+          "Avoid waterlogging",
+          "Apply Bordeaux mixture",
+          "Improve drainage in garden"
+        ]
+      },
+      "Anthracnose": {
+        "symptoms": {
+          "visual_keywords": [
+            "dark brown spots",
+            "sunken lesions",
+            "yellowing",
+            "premature leaf drop"
+          ],
+          "pattern": "sunken dark lesions"
+        },
+        "treatment": "Carbendazim 0.1%, Copper oxychloride 0.3%",
+        "causal_organism": "Colletotrichum gloeosporioides",
+        "precautions": [
+          "Improve air circulation",
+          "Remove infected leaves",
+          "Avoid leaf wetness",
+          "Apply fungicide regularly"
+        ]
+      }
+    }
+  },
+  "Tamarindus_indica": {
+    "common_name": "Tamarind",
+    "family": "Fabaceae",
+    "medicinal_uses": "Digestive laxative, antiscorbutic, antimicrobial, cooling effect",
+    "care_tips": "Full sun, deep well-drained soil, drought tolerant, minimal care once established",
+    "diseases": {
+      "Powdery Mildew": {
+        "symptoms": {
+          "visual_keywords": [
+            "white powdery coating",
+            "distorted young leaves",
+            "premature defoliation"
+          ],
+          "pattern": "white powder on leaves"
+        },
+        "treatment": "Wettable sulphur 0.3%, Triadimefon 0.1%",
+        "causal_organism": "Phyllactinia tamarindi",
+        "precautions": [
+          "Spray sulphur in early morning",
+          "Remove infected shoots",
+          "Improve canopy spacing",
+          "Apply at 10-day intervals"
+        ]
+      },
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "yellow halo",
+            "circular lesions",
+            "defoliation"
+          ],
+          "pattern": "circular brown spots"
+        },
+        "treatment": "Mancozeb 0.25%, Carbendazim 0.1%",
+        "causal_organism": "Alternaria tamarindi",
+        "precautions": [
+          "Remove infected leaves",
+          "Avoid overhead watering",
+          "Apply fungicide preventively",
+          "Maintain tree spacing"
+        ]
+      }
+    }
+  },
+  "Syzygium_cumini": {
+    "common_name": "Jamun / Black Plum",
+    "family": "Myrtaceae",
+    "medicinal_uses": "Antidiabetic, digestive, astringent, liver health, blood purifier",
+    "care_tips": "Full sun, deep well-drained soil, drought tolerant once established",
+    "diseases": {
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "grey lesions",
+            "yellow halo",
+            "premature leaf drop"
+          ],
+          "pattern": "irregular grey-brown spots"
+        },
+        "treatment": "Mancozeb 0.25%, Carbendazim 0.1%",
+        "causal_organism": "Pestalotiopsis sp.",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide during monsoon",
+          "Improve canopy spacing",
+          "Avoid water stress"
+        ]
+      },
+      "Anthracnose": {
+        "symptoms": {
+          "visual_keywords": [
+            "dark brown lesions",
+            "sunken spots",
+            "tip dieback",
+            "fruit rot"
+          ],
+          "pattern": "sunken dark lesions"
+        },
+        "treatment": "Copper oxychloride 0.3%, Carbendazim 0.1%",
+        "causal_organism": "Colletotrichum gloeosporioides",
+        "precautions": [
+          "Prune infected shoots",
+          "Apply copper spray before flowering",
+          "Avoid overhead irrigation",
+          "Remove fallen fruit"
+        ]
+      }
+    }
+  },
+  "Morinda_citrifolia": {
+    "common_name": "Noni",
+    "family": "Rubiaceae",
+    "medicinal_uses": "Antioxidant, immune booster, anti-inflammatory, antibacterial, pain relief",
+    "care_tips": "Full sun to partial shade, well-drained soil, drought tolerant",
+    "diseases": {
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown circular spots",
+            "yellow halo",
+            "necrotic lesions"
+          ],
+          "pattern": "circular spots"
+        },
+        "treatment": "Mancozeb 0.25%, Copper oxychloride 0.3%",
+        "causal_organism": "Cercospora morindae",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide every 15 days",
+          "Improve drainage",
+          "Avoid overhead watering"
+        ]
+      },
+      "Root Rot": {
+        "symptoms": {
+          "visual_keywords": [
+            "yellowing",
+            "wilting",
+            "black necrosis at roots",
+            "sudden collapse"
+          ],
+          "pattern": "sudden wilt from roots"
+        },
+        "treatment": "Trichoderma viride soil application, Carbendazim drenching",
+        "causal_organism": "Phytophthora sp.",
+        "precautions": [
+          "Improve soil drainage",
+          "Avoid waterlogging",
+          "Drench with bio-fungicide",
+          "Use raised beds"
+        ]
+      }
+    }
+  },
+  "Piper_nigrum": {
+    "common_name": "Black Pepper",
+    "family": "Piperaceae",
+    "medicinal_uses": "Digestive stimulant, antibacterial, antioxidant, respiratory ailments",
+    "care_tips": "Partial shade, high humidity, support structure, well-drained fertile soil",
+    "diseases": {
+      "Phytophthora Wilt": {
+        "symptoms": {
+          "visual_keywords": [
+            "sudden wilting",
+            "black necrosis at collar",
+            "water soaked lesions",
+            "rapid defoliation"
+          ],
+          "pattern": "sudden collapse"
+        },
+        "treatment": "Metalaxyl 0.2% drenching, Bordeaux mixture 1%",
+        "causal_organism": "Phytophthora capsici",
+        "precautions": [
+          "Improve drainage",
+          "Remove and destroy infected plants",
+          "Drench soil with Metalaxyl",
+          "Avoid waterlogging"
+        ]
+      },
+      "Anthracnose": {
+        "symptoms": {
+          "visual_keywords": [
+            "dark brown spots",
+            "spike shedding",
+            "sunken lesions",
+            "yellowing"
+          ],
+          "pattern": "sunken spots on leaves and spikes"
+        },
+        "treatment": "Carbendazim 0.1%, Copper oxychloride 0.3%",
+        "causal_organism": "Colletotrichum gloeosporioides",
+        "precautions": [
+          "Remove infected parts",
+          "Apply fungicide at flowering",
+          "Avoid overhead irrigation",
+          "Prune for air flow"
+        ]
+      }
+    }
+  },
+  "Cymbopogon_citratus": {
+    "common_name": "Lemongrass",
+    "family": "Poaceae",
+    "medicinal_uses": "Antifungal, antibacterial, digestive, anxiety relief, fever reducer",
+    "care_tips": "Full sun, well-drained soil, drought tolerant, divide clumps every 2 years",
+    "diseases": {
+      "Rust": {
+        "symptoms": {
+          "visual_keywords": [
+            "rust orange pustules",
+            "yellow streaks on leaves",
+            "brown powder on underside"
+          ],
+          "pattern": "linear orange pustules"
+        },
+        "treatment": "Propiconazole 0.1%, Mancozeb 0.25%",
+        "causal_organism": "Puccinia nakanishikii",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide at first sign",
+          "Avoid dense planting",
+          "Improve air flow"
+        ]
+      },
+      "Leaf Blight": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown tip burn",
+            "yellowing",
+            "necrotic streaks",
+            "leaf dieback"
+          ],
+          "pattern": "tip and margin blight"
+        },
+        "treatment": "Carbendazim 0.1%, Copper oxychloride 0.3%",
+        "causal_organism": "Helminthosporium sacchari",
+        "precautions": [
+          "Remove infected leaf tips",
+          "Apply fungicide during wet season",
+          "Maintain spacing",
+          "Avoid water stress"
+        ]
+      }
+    }
+  },
+  "Ricinus_communis": {
+    "common_name": "Castor",
+    "family": "Euphorbiaceae",
+    "medicinal_uses": "Laxative, anti-inflammatory, antibacterial, wound healing, hair care",
+    "care_tips": "Full sun, well-drained soil, drought tolerant, fast growing",
+    "diseases": {
+      "Grey Mold": {
+        "symptoms": {
+          "visual_keywords": [
+            "grey fuzzy growth",
+            "brown soft rot",
+            "water soaked lesions",
+            "rapid tissue decay"
+          ],
+          "pattern": "grey mould on soft tissue"
+        },
+        "treatment": "Carbendazim 0.1%, Iprodione 0.2%",
+        "causal_organism": "Botrytis cinerea",
+        "precautions": [
+          "Remove infected parts",
+          "Improve air circulation",
+          "Avoid overhead watering",
+          "Apply fungicide preventively"
+        ]
+      },
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown circular spots",
+            "yellow halo",
+            "necrotic lesions"
+          ],
+          "pattern": "circular brown spots"
+        },
+        "treatment": "Mancozeb 0.25%, Copper oxychloride 0.3%",
+        "causal_organism": "Alternaria ricini",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide at first sign",
+          "Avoid overhead watering",
+          "Improve plant spacing"
+        ]
+      }
+    }
+  },
+  "Coriandrum_sativum": {
+    "common_name": "Coriander",
+    "family": "Apiaceae",
+    "medicinal_uses": "Digestive, antifungal, antioxidant, cholesterol reduction, blood sugar regulation",
+    "care_tips": "Full sun to partial shade, cool climate, well-drained soil, regular watering",
+    "diseases": {
+      "Powdery Mildew": {
+        "symptoms": {
+          "visual_keywords": [
+            "white powdery coating",
+            "yellowing",
+            "distorted growth",
+            "premature senescence"
+          ],
+          "pattern": "white powder on all aerial parts"
+        },
+        "treatment": "Wettable sulphur 0.3%, Triadimefon 0.1%",
+        "causal_organism": "Erysiphe umbelliferarum",
+        "precautions": [
+          "Sow in cool season",
+          "Avoid dense sowing",
+          "Apply sulphur spray",
+          "Improve air circulation"
+        ]
+      },
+      "Stem Rot": {
+        "symptoms": {
+          "visual_keywords": [
+            "water soaked lesions at base",
+            "yellowing",
+            "wilting",
+            "cottony white growth"
+          ],
+          "pattern": "basal stem rot"
+        },
+        "treatment": "Carbendazim 0.1% soil drench, remove infected plants",
+        "causal_organism": "Sclerotinia sclerotiorum",
+        "precautions": [
+          "Avoid dense sowing",
+          "Improve drainage",
+          "Remove infected plants",
+          "Drench with Carbendazim"
+        ]
+      }
+    }
+  },
+  "Spinacia_oleracea": {
+    "common_name": "Spinach",
+    "family": "Amaranthaceae",
+    "medicinal_uses": "Iron-rich, antioxidant, eye health, bone health, anti-inflammatory",
+    "care_tips": "Cool season crop, partial shade in summer, moist well-drained soil, regular watering",
+    "diseases": {
+      "Downy Mildew": {
+        "symptoms": {
+          "visual_keywords": [
+            "yellow patches on upper surface",
+            "grey fuzzy growth on underside",
+            "yellowing",
+            "leaf distortion"
+          ],
+          "pattern": "yellow above, grey below"
+        },
+        "treatment": "Metalaxyl 0.2%, Mancozeb 0.25%",
+        "causal_organism": "Peronospora farinosa",
+        "precautions": [
+          "Improve air circulation",
+          "Avoid overhead watering",
+          "Apply Metalaxyl preventively",
+          "Use resistant varieties"
+        ]
+      },
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "circular lesions",
+            "yellow halo",
+            "tan centre"
+          ],
+          "pattern": "circular tan spots"
+        },
+        "treatment": "Mancozeb 0.25%, Copper oxychloride 0.3%",
+        "causal_organism": "Cercospora beticola",
+        "precautions": [
+          "Remove infected leaves",
+          "Avoid overhead irrigation",
+          "Crop rotation",
+          "Apply fungicide at first sign"
+        ]
+      }
+    }
+  },
+  "Phaseolus_vulgaris": {
+    "common_name": "Beans",
+    "family": "Fabaceae",
+    "medicinal_uses": "Protein-rich, antidiabetic, heart health, digestive health",
+    "care_tips": "Full sun, well-drained soil, regular watering, support for climbing varieties",
+    "diseases": {
+      "Bean Rust": {
+        "symptoms": {
+          "visual_keywords": [
+            "rust orange pustules",
+            "yellow spots on upper surface",
+            "brown spore masses",
+            "defoliation"
+          ],
+          "pattern": "orange-brown pustules"
+        },
+        "treatment": "Mancozeb 0.25%, Propiconazole 0.1%",
+        "causal_organism": "Uromyces appendiculatus",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide at first sign",
+          "Avoid overhead watering",
+          "Maintain plant spacing"
+        ]
+      },
+      "Angular Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "water soaked lesions",
+            "angular brown spots",
+            "yellowing",
+            "premature defoliation"
+          ],
+          "pattern": "angular water-soaked spots"
+        },
+        "treatment": "Copper hydroxide 0.2%, Streptomycin 500ppm",
+        "causal_organism": "Pseudomonas syringae pv. phaseolicola",
+        "precautions": [
+          "Use disease-free seed",
+          "Avoid overhead irrigation",
+          "Remove infected leaves",
+          "Apply copper bactericide"
+        ]
+      }
+    }
+  },
+  "Pisum_sativum": {
+    "common_name": "Pea",
+    "family": "Fabaceae",
+    "medicinal_uses": "Protein-rich, antioxidant, heart health, eye health, blood sugar regulation",
+    "care_tips": "Cool season, full sun, well-drained soil, trellis support, avoid hot weather",
+    "diseases": {
+      "Powdery Mildew": {
+        "symptoms": {
+          "visual_keywords": [
+            "white powdery coating",
+            "yellowing",
+            "stunted growth",
+            "premature senescence"
+          ],
+          "pattern": "white powder on all aerial parts"
+        },
+        "treatment": "Wettable sulphur 0.3%, Carbendazim 0.1%",
+        "causal_organism": "Erysiphe pisi",
+        "precautions": [
+          "Sow in cool season",
+          "Apply sulphur spray",
+          "Improve air circulation",
+          "Avoid late sowing"
+        ]
+      },
+      "Rust": {
+        "symptoms": {
+          "visual_keywords": [
+            "rust orange pustules",
+            "brown powder on underside",
+            "yellow spots on upper surface"
+          ],
+          "pattern": "orange pustules on leaves"
+        },
+        "treatment": "Mancozeb 0.25%, Propiconazole 0.1%",
+        "causal_organism": "Uromyces fabae",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide at first sign",
+          "Avoid overhead watering",
+          "Use resistant varieties"
+        ]
+      }
+    }
+  },
+  "Catharanthus_roseus": {
+    "common_name": "Periwinkle",
+    "family": "Apocynaceae",
+    "medicinal_uses": "Anticancer alkaloids, antidiabetic, antihypertensive, wound healing",
+    "care_tips": "Full sun, well-drained soil, drought tolerant, deadhead spent flowers",
+    "diseases": {
+      "Phytoplasma Wilt": {
+        "symptoms": {
+          "visual_keywords": [
+            "yellowing",
+            "stunted growth",
+            "leaf curl distortion",
+            "virescence of flowers"
+          ],
+          "pattern": "yellowing and stunting"
+        },
+        "treatment": "Remove infected plants, control leafhopper vector with Imidacloprid",
+        "causal_organism": "Phytoplasma",
+        "precautions": [
+          "Remove infected plants immediately",
+          "Control leafhoppers",
+          "Use virus-free seedlings",
+          "Apply yellow sticky traps"
+        ]
+      },
+      "Leaf Spot": {
+        "symptoms": {
+          "visual_keywords": [
+            "brown spots",
+            "circular lesions",
+            "yellow halo"
+          ],
+          "pattern": "circular spots"
+        },
+        "treatment": "Mancozeb 0.25%, Carbendazim 0.1%",
+        "causal_organism": "Alternaria catharanthicola",
+        "precautions": [
+          "Remove infected leaves",
+          "Apply fungicide every 15 days",
+          "Avoid overhead watering",
+          "Improve drainage"
+        ]
+      }
+    }
+  }
+}

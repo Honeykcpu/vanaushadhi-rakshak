@@ -1,0 +1,151 @@
+
+.dockerignore
+.gitignore
+.ipynb_checkpoints
+│   Untitled-checkpoint.ipynb
+│   Vanaushadhi_Complete_Final-checkpoint.ipynb
+│   checkpoints
+│   disease_database-checkpoint.json
+│   vanaushadhi-rakshak-checkpoint.code-workspace
+│   vanaushadhi_training.ipynb-checkpoint.ipynb
+App.js
+DiseaseDiagnosis.js
+Dockerfile
+Home.js
+README.md
+Untitled.ipynb
+VanaushadhiAPI.js
+Vanaushadhi_Complete_Final.ipynb
+app.json
+assets
+│   AloeVera.png
+│   Ashwagandha.png
+│   Brahmi.png
+│   Medicinal Leaf dataset
+│   │   Adhatoda-vasica
+│   │   Aloevera
+│   │   Amla
+│   │   Amruthaballi
+│   │   Apple_Tree_leaf
+│   │   Arali
+│   │   Astma_weed
+│   │   Badipala
+│   │   Balloon_Vine
+│   │   Bamboo
+│   │   Beans
+│   │   Betel
+│   │   Bhrami
+│   │   Bringaraja
+│   │   Caricature
+│   │   Castor
+│   │   Catharanthus
+│   │   Chakte
+│   │   Chilly
+│   │   Citron lime (herelikai)
+│   │   Coffee
+│   │   Common rue(naagdalli)
+│   │   Coriender
+│   │   Curry
+│   │   Cymbopogon citratus
+│   │   Doddpathre
+│   │   Drumstick
+│   │   Ekka
+│   │   Eucalyptus
+│   │   Ganigale
+│   │   Ganike
+│   │   Gasagase
+│   │   Ginger
+│   │   Globe Amarnath
+│   │   Guava
+│   │   Henna
+│   │   Hibiscus
+│   │   Honge
+│   │   Insulin
+│   │   Jackfruit
+│   │   Jasmine
+│   │   Kambajala
+│   │   Kasambruga
+│   │   Kohlrabi
+│   │   Lantana
+│   │   Lemon
+│   │   Lemongrass
+│   │   Malabar_Nut
+│   │   Malabar_Spinach
+│   │   Mango
+│   │   Marigold
+│   │   Mint
+│   │   Neem
+│   │   Nelavembu
+│   │   Nerale
+│   │   Nooni
+│   │   Onion
+│   │   Padri
+│   │   Palak(Spinach)
+│   │   Papaya
+│   │   Parijatha
+│   │   Pea
+│   │   Pepper
+│   │   Phaseolus
+│   │   Pomoegranate
+│   │   Pumpkin
+│   │   Raddish
+│   │   Rose
+│   │   Sampige
+│   │   Sapota
+│   │   Seethaashoka
+│   │   Seethapala
+│   │   Spinach1
+│   │   Tamarind
+│   │   Taro
+│   │   Tecoma
+│   │   Thumbe
+│   │   Tomato
+│   │   Tulsi
+│   │   Turmeric
+│   │   ashoka
+│   │   c.martini
+│   │   camphor
+│   │   cucumber leaf
+│   │   hydrangea-cinerea
+│   │   kamakasturi
+│   │   kepala
+│   │   piper betle
+│   │   turnip-leaf
+│   Mint.png
+│   Neem.png
+│   Peppermint.png
+│   Tulsi.png
+│   adaptive-icon.png
+│   data
+│   │   processed
+│   icon.png
+│   logo.jpg
+│   splash-icon.png
+checkpoints
+│   best_model.pth
+│   class_names.json
+components
+│   AloeVera.js
+│   Ashwagandha.js
+│   Brahmi.js
+│   ClimateData.js
+│   ExploreAllPlants.js
+│   ExploreMorePlants.js
+│   GeoTaggedPlantInput.js
+│   Home.js
+│   Mint.js
+│   Neem.js
+│   Peppermint.js
+│   Tulsi.js
+│   Welcome.js
+disease_database.json
+flask_api.py
+flask_api_test.py
+index.js
+outputs
+package-lock.json
+package.json
+requirements.txt
+test_api.py
+vanaushadhi-rakshak.code-workspace
+vanaushadhi_training.ipynb
